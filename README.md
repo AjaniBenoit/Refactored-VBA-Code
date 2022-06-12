@@ -16,5 +16,5 @@ The purpose of this report is to outline the both the original and refactored co
 
 The original code creates a subroutine called “yearValueAnalysis()”. This sub routine allows the user to enter the year they wish to run the analysis on. The Code then populates the year the report is being executed for along with the headers for the rows in the “All Stocks Analysis” worksheet. The Code then creates an array for the Tickers and creates two new variables for the starting price and ending price. ![Original_VBA_CODE_1.png]( https://github.com/AjaniBenoit/Refactored-VBA-Code/blob/main/Original_VBA_CODE_1.png)
 
-The code then activates the worksheet for the year in which the analysis is being completed and counts then number of rows for which the code would be looped through. ![Original_VBA_CODE_2.png]( https://github.com/AjaniBenoit/Refactored-VBA-Code/blob/main/Original_VBA_CODE_2.png) 
+The code then activates the worksheet for the year in which the analysis is being completed and counts then number of rows that the code would be looped through. ![Original_VBA_CODE_2.png]( https://github.com/AjaniBenoit/Refactored-VBA-Code/blob/main/Original_VBA_CODE_2.png) 
 
