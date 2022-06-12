@@ -18,3 +18,5 @@ The original code creates a subroutine called “yearValueAnalysis()”. This su
 
 The code then activates the worksheet for the year in which the analysis is being completed and counts then number of rows that the code would be looped through. ![Original_VBA_CODE_2.png]( https://github.com/AjaniBenoit/Refactored-VBA-Code/blob/main/Original_VBA_CODE_2.png) 
 
+The Code then uses nested loops and conditional if-then statements to loop through the tickers and calculate the volume for the tickers, starting price of the tickers and ending price of the ticker. The code then outputs data for each ticker on the “All Stocks Analysis” worksheet.
+![Original_VBA_CODE_3.png]( https://github.com/AjaniBenoit/Refactored-VBA-Code/blob/main/Original_VBA_CODE_3.png)
