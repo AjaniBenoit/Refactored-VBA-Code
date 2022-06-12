@@ -20,3 +20,8 @@ The code then activates the worksheet for the year in which the analysis is bein
 
 The Code then uses nested loops and conditional if-then statements to loop through the tickers and calculate the volume for the tickers, starting price of the tickers and ending price of the ticker. The code then outputs data for each ticker on the “All Stocks Analysis” worksheet. The subroutine is then ended
 ![Original_VBA_CODE_3.png]( https://github.com/AjaniBenoit/Refactored-VBA-Code/blob/main/Original_VBA_CODE_3.png)
+
+### Refactored VBA Code
+
+The refactored code creates a subroutine called “AllStockAnalysisRefactored()”. This subroutine allows the user to enter the year they wish to run the analysis on. The Code then populates the year the report is being executed for along with the headers for the rows in the “All Stocks Analysis” worksheet. .The Code then creates an array for the Tickers. The code then activates the worksheet for the year in which the analysis is being completed and counts then number of rows for which the code would be looped through. ![Refactored_VBA_CODE_1.png]( https://github.com/AjaniBenoit/Refactored-VBA-Code/blob/main/Refactored_VBA_CODE_1.png) 
+
