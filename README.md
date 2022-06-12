@@ -9,3 +9,10 @@ Visual Basic for Applications (VBA) was used to automate the analysis of the Gre
 ### Purpose 
 
 The purpose of this report is to outline the both the original and refactored coded; and to determine if the refactored code is more efficient. 
+
+## Results 
+
+### Original VBA Code.
+
+The original code creates a subroutine called “yearValueAnalysis()”. This sub routine allows the user to enter the year they wish to run the analysis on. The Code then populates the year the report is being executed for along with the headers for the rows in the “All Stocks Analysis” worksheet. The Code then creates an array for the Tickers and creates two new variables for the starting price and ending price. ![Original_VBA_CODE_1.png]( https://github.com/AjaniBenoit/Refactored-VBA-Code/blob/main/Original_VBA_CODE_1.png)
+![image](https://user-images.githubusercontent.com/106286515/173257431-4dd329fb-df8a-4e3d-bcdd-bf5793e3d2b3.png)
