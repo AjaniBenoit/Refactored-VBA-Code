@@ -44,3 +44,9 @@ The refactored code was more efficient than the original code.
 ![VBA_Challenge_2017.png]( https://github.com/AjaniBenoit/Refactored-VBA-Code/blob/main/VBA_Challenge_2017.png)
 
 ![VBA_Challenge_2018.png]( https://github.com/AjaniBenoit/Refactored-VBA-Code/blob/main/VBA_Challenge_2018.png)
+
+## Summary
+
+The advantages of refactored codes is that it is more efficient than the original code reducing the runtime to execute the command. A disadvantage of the refactored is that the data must be sorted by the tickers. If the data is not sorted then refactored code will not work. 
+
+A disadvantage of the original code is that it is not as efficient as the refactored code. However, an advantage of the original code is that the data does not need to be sorted in order for the code to be executed. 
