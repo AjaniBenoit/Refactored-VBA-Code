@@ -37,7 +37,7 @@ The refactored code was more efficient than the original code.
 
 ![Original_runtime_2017.png]( https://github.com/AjaniBenoit/Refactored-VBA-Code/blob/main/Original_runtime_2017.png)
 
-!(Original_runtime_2018.png]( https://github.com/AjaniBenoit/Refactored-VBA-Code/blob/main/Original_runtime_2018.png)
+![Original_runtime_2018.png]( https://github.com/AjaniBenoit/Refactored-VBA-Code/blob/main/Original_runtime_2018.png)
 
 #### Refactored Code 
 
