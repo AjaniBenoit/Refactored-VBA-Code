@@ -29,3 +29,18 @@ The refactored code then creates an new variable called “tickerIndex”. The t
 
 The refactored code then initiates another loop through the arrays to output the tickers, total daily volumes and return. The loop is then closed. Another loop is then initiated and if-then conditional statements used to format the worksheet.  ![Refactored_VBA_CODE_3]( https://github.com/AjaniBenoit/Refactored-VBA-Code/blob/main/Refactored_VBA_CODE_3.png)
 
+### Comparison of the run time for the Original Code vs the Refactored Code
+
+The refactored code was more efficient than the original code. 
+
+#### Original Code 
+
+![Original_runtime_2017.png]( https://github.com/AjaniBenoit/Refactored-VBA-Code/blob/main/Original_runtime_2017.png)
+
+!(Original_runtime_2018.png]( https://github.com/AjaniBenoit/Refactored-VBA-Code/blob/main/Original_runtime_2018.png)
+
+#### Refactored Code 
+
+![VBA_Challenge_2017.png]( https://github.com/AjaniBenoit/Refactored-VBA-Code/blob/main/VBA_Challenge_2017.png)
+
+![VBA_Challenge_2018.png]( https://github.com/AjaniBenoit/Refactored-VBA-Code/blob/main/VBA_Challenge_2018.png)
